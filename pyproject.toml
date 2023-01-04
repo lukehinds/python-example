@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "my-flask-project"
+version = "0.1.0"
+description = "A simple Flask project"
+authors = ["Your Name <your@email.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+flask = "^1.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.1"
